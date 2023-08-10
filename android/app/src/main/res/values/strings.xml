@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">3505547406385460</string>
+    <string name="facebook_client_token">088f06b4b5ebf8e592d7ece770bdd4fb</string>
+    <string name="fb_login_protocol_scheme">fb512968817476413</string>
+    <string name="default_notification_channel_id">com.adx.radiance</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926558459069",
+    "project_id": "radiance-53114",
+    "storage_bucket": "radiance-53114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926558459069:android:58144f3f6a7794ad28d3d4",
+        "android_client_info": {
+          "package_name": "com.adx.radiance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926558459069-8t69rclgbl19ssg1gjq82koripaj63j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tyB_I_44zAEpEvwgP_dSOVUBF5Rf2OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926558459069-8t69rclgbl19ssg1gjq82koripaj63j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926558459069-bvvbpuo98vlcit2echgovtpe18l40ka1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
